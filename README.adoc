@@ -7,8 +7,32 @@ Equipe ANF NMSAW 2016
 :toclevels: 4    
 :star: &#9733;
 
+L'action nationale de formation "Nouvelles Menaces Sécurité des Application" est une action de sensibilisation à destination des acteurs du développement.
+
+Les objectifs pédagogiques à l'issu de cette ANF sont
+
+* avoir une introduction générale à la sécurité informatique
+* appréhender les failles de sécurité courantes des applications Web
+* comprendre la démarche d'un attaquant pour avoir un regard différent sur leurs productions
+* développer une sensibilité orienté sécurité afin de l'intégrer dans leurs pratiques
+* avoir des pistes pour mettre en oeuvre les méthodologies, pratiques et outils nécessaire à la sécurisation des applications web en fonction des contextes et cultures propres à chaque participant. 
+
+La volonté n'est pas de fournir des solutions clefs en main et prêts à penser. La sécurité est une démarche, pas un produit.
+
+== Programme de l'ANF
+
 Le programme se construit autour de trois axes : 
 
 * Axe 1 : Les nouveaux risques du web et leurs conséquences sur le monde de la recherche
 * Axe 2 : Les nouvelles menaces des applications Web
 * Axe 3 : Organiser et mettre en œuvre la sécurité dans les applications Web
+
+
+== Livrables
+
+Cette ANF aura pour livrable les objets suivants
+
+* la constitution d'une communauté orienté sécurité
+* un guide de bonne pratique édité en mode collaboratif
+* des supports de présentation
+
