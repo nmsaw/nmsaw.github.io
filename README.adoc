@@ -1,0 +1,14 @@
+= Nouvelles Menaces Sécurité pour les Applications Web
+Equipe ANF NMSAW 2016
+:doctype: article
+:encoding: utf-8
+:lang: fr
+:toc: left
+:toclevels: 4    
+:star: &#9733;
+
+Le programme se construit autour de trois axes : 
+
+* Axe 1 : Les nouveaux risques du web et leurs conséquences sur le monde de la recherche
+* Axe 2 : Les nouvelles menaces des applications Web
+* Axe 3 : Organiser et mettre en œuvre la sécurité dans les applications Web
